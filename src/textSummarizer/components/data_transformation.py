@@ -1,8 +1,6 @@
-from textSummarizer.logging import logger
 from textSummarizer.utils.common import get_size
 from textSummarizer.entity import DataTransformationConfig
 import os
-from textSummarizer.logging import logger
 from transformers import AutoTokenizer
 from datasets import load_dataset, load_from_disk
 
