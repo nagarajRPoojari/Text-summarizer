@@ -11,10 +11,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=githubactions,fastapi,javascript,git,github,materialui)](https://skillicons.dev) 
 </div>
+
 <div align='center'>
     <p>A Large language model for text summarization</p>
 </div>
-
 
 
 
