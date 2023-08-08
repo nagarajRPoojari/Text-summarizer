@@ -1,0 +1,275 @@
+6/30/23, 8:50 PM - Messages and calls are end-to-end encrypted. No one outside of this chat, not even WhatsApp, can read or listen to them. Tap to learn more.
+6/30/23, 8:49 PM - Nithin AIML created group "SOLID TRY🤫"
+6/30/23, 8:50 PM - Nithin AIML added you
+6/30/23, 8:50 PM - Nithin AIML: https://sites.google.com/view/aisome/aisome?pli=1
+6/30/23, 8:50 PM - Nithin AIML: very good chance to work☝🏼
+6/30/23, 8:51 PM - Nithin AIML: Pls go through it in detail
+6/30/23, 8:51 PM - Nithin AIML: Data set will be provided
+6/30/23, 8:51 PM - nagaraj_poojari: have u worked with text classification models ?
+6/30/23, 8:51 PM - Nithin AIML: Kind off
+6/30/23, 8:52 PM - Nithin AIML: But it was like spam ham
+6/30/23, 8:52 PM - Nithin AIML: Positive -ve
+6/30/23, 8:52 PM - Nithin AIML: But this is a step ahead
+6/30/23, 8:52 PM - Nithin AIML: Soo its important to know wt to do n how to build
+6/30/23, 8:53 PM - nagaraj_poojari: hm, a text can contain multiple label
+6/30/23, 8:53 PM - Nithin AIML: Yeahh
+6/30/23, 8:53 PM - Nithin AIML: Actually there was a senior who used graphical neural networks for the same problem
+6/30/23, 8:54 PM - Nithin AIML: Its different ai model sop
+6/30/23, 8:54 PM - nagaraj_poojari: yhea
+6/30/23, 8:54 PM - Nithin AIML: So* building uniquely matters
+6/30/23, 8:54 PM - nagaraj_poojari: but for text , transformers works well right
+6/30/23, 8:54 PM - Varun ISE: but accuracy matters
+6/30/23, 8:54 PM - Nithin AIML: I can contact them through my cls teacher Sowmya maam ip
+6/30/23, 8:55 PM - Varun ISE: no we can go with bert
+6/30/23, 8:55 PM - Nithin AIML: They said that trains much quicker n with more accurately
+6/30/23, 8:55 PM - Nithin AIML: Sooo i choose that
+6/30/23, 8:55 PM - Nithin AIML: @916362688458 was there u remember?
+6/30/23, 8:55 PM - Nithin AIML: GNN
+6/30/23, 8:55 PM - Nithin AIML: I called u to see that
+6/30/23, 8:56 PM - Nithin AIML: Wt u think abt it
+6/30/23, 8:56 PM - Nithin AIML: Wt it is
+6/30/23, 8:56 PM - Varun ISE: Gotilla
+6/30/23, 8:56 PM - nagaraj_poojari: https://paperswithcode.com/task/text-classification
+6/30/23, 8:56 PM - Varun ISE: Sumne helde
+6/30/23, 8:57 PM - Nithin AIML: We will discuss with them n go through it
+6/30/23, 8:57 PM - nagaraj_poojari: state of art models
+6/30/23, 8:57 PM - Nithin AIML: On wt
+6/30/23, 8:58 PM - nagaraj_poojari: the existing text classification models that worked well for different datasets
+6/30/23, 8:59 PM - Nithin AIML: Ok cool cool
+6/30/23, 9:01 PM - Varun ISE: So let's distribute the roles
+6/30/23, 9:02 PM - Varun ISE: Someone come forward and assign the roles
+6/30/23, 9:02 PM - Nithin AIML: I seriously dk
+6/30/23, 9:02 PM - Nithin AIML: @917019096676 or @916362688458  do that
+6/30/23, 9:03 PM - nagaraj_poojari: now the only goal is to study and understand the existing models
+6/30/23, 9:03 PM - Nithin AIML: @916362688458 ninna kardirade edun madak distrubute madu
+6/30/23, 9:03 PM - Nithin AIML: Truee
+6/30/23, 9:04 PM - Nithin AIML: Lets all study m understand as he said
+6/30/23, 9:04 PM - Nithin AIML: N start on
+6/30/23, 9:04 PM - Varun ISE: @917019096676 and @919980549538 you do the heavy lifting give me light work because I'm a beginner
+6/30/23, 9:05 PM - Nithin AIML: Do this we will see
+7/1/23, 10:35 AM - Varun ISE: <Media omitted>
+7/1/23, 10:35 AM - Varun ISE: <Media omitted>
+7/1/23, 10:05 PM - Nithin AIML: Did anything new today?????
+7/1/23, 10:06 PM - Nithin AIML: So basically classification for a data is not a big deal but
+7/1/23, 10:06 PM - Nithin AIML: Mentioning all label it belongs to matters
+7/1/23, 10:06 PM - Nithin AIML: So try knowing it
+7/1/23, 10:07 PM - Nithin AIML: 1. Nlp to converted to numerical data -one hot encoding n so on refer yt for more detail how n all
+7/1/23, 10:08 PM - Nithin AIML: 2.numerical data need to be classified
+7/1/23, 10:08 PM - Nithin AIML: 3. Mention all classified data
+7/1/23, 10:08 PM - Nithin AIML: 4. Accuracy matters
+7/1/23, 10:09 PM - Nithin AIML: 5. Try to do it with some models with are not familiar to most note: carrying all 1.2.3.4
+7/1/23, 10:10 PM - Nithin AIML: 6. If model is unique n as more accuracy then its waitage
+7/1/23, 10:10 PM - nagaraj_poojari: embedding matters a lot
+7/1/23, 10:10 PM - Nithin AIML: Mark all this n we will dive from Monday
+7/1/23, 10:11 PM - Nithin AIML: Disclaimer: heavy compitition
+7/1/23, 10:11 PM - Nithin AIML: Yeah i missed that
+7/1/23, 10:12 PM - Nithin AIML: Guys go through all 6 wt to build n how to build
+7/1/23, 10:12 PM - Nithin AIML: Focus on this
+7/1/23, 10:12 PM - Nithin AIML: @917019096676
+7/1/23, 10:12 PM - Nithin AIML: Like all 3 labels need to be mentioned how anta
+7/1/23, 10:14 PM - Nithin AIML: @917019096676 from 1,2,3
+7/1/23, 10:14 PM - Nithin AIML: @916362597680 1
+7/1/23, 10:14 PM - Nithin AIML: Be ready by Monday
+7/1/23, 10:14 PM - Nithin AIML: Same for me
+7/1/23, 10:15 PM - Nithin AIML: @916362688458 crt every point when ever its asked
+7/1/23, 10:15 PM - Nithin AIML: Lead at every moment
+7/1/23, 10:16 PM - Varun ISE: @919980549538 what to learn theory or implementation
+7/1/23, 10:16 PM - nagaraj_poojari: 👍
+7/1/23, 10:16 PM - Nithin AIML: All concepts from scratch
+7/1/23, 10:17 PM - Varun ISE: Means practice or knowing the concept
+7/1/23, 10:21 PM - nagaraj_poojari: to access there data we need to fill a form and mail them, 
+do we need any college sign on it  ?
+7/1/23, 10:22 PM - Nithin AIML: No idea i don't think soo
+7/1/23, 10:22 PM - Nithin AIML: Shall we fill that now
+7/1/23, 10:23 PM - Nithin AIML: Nagraj do that
+7/1/23, 10:27 PM - Nithin AIML: Just Know
+7/1/23, 10:28 PM - nagaraj_poojari: <Media omitted>
+7/1/23, 10:28 PM - Nithin AIML: Go through n understand some libraries
+7/1/23, 10:28 PM - nagaraj_poojari: idk what to fill
+7/1/23, 10:29 PM - Varun ISE: Nltk
+7/1/23, 10:32 PM - Nithin AIML: Yeah some important
+7/1/23, 10:32 PM - Nithin AIML: Briefly all
+7/1/23, 10:32 PM - Nithin AIML: U got abt copyright
+7/1/23, 10:32 PM - Nithin AIML: ?
+7/1/23, 10:32 PM - Nithin AIML: Who holds
+7/1/23, 10:33 PM - nagaraj_poojari: what ?
+7/1/23, 10:34 PM - nagaraj_poojari: i didn't get it
+7/1/23, 10:36 PM - Nithin AIML: Ig we don't have any right on our project its selected
+7/1/23, 10:36 PM - nagaraj_poojari: why
+7/1/23, 10:36 PM - nagaraj_poojari: its just for data access
+7/1/23, 10:37 PM - Nithin AIML: Oh ok
+7/1/23, 10:37 PM - Nithin AIML: I thought for project
+7/1/23, 10:43 PM - nagaraj_poojari: just give a team name , 
+tommorow I will take print out and fill
+7/1/23, 10:44 PM - Varun ISE: Codaine
+7/1/23, 10:44 PM - Varun ISE: codAIne
+7/1/23, 10:45 PM - Nithin AIML: Cool with anything
+7/1/23, 10:45 PM - Nithin AIML: Could it be better
+7/1/23, 10:45 PM - Varun ISE: Replace d with c
+7/1/23, 10:46 PM - nagaraj_poojari: 😇
+7/1/23, 10:47 PM - Nithin AIML: Wt
+7/1/23, 10:47 PM - Varun ISE: Dhatwik eno silent @916362688458 guide madu guru
+7/1/23, 10:47 PM - Varun ISE: Spell it
+7/1/23, 10:48 PM - Nithin AIML: Coulc
+7/1/23, 10:48 PM - Varun ISE: Tagdu cocaine
+7/1/23, 10:48 PM - Varun ISE: Antha
+7/1/23, 10:48 PM - Nithin AIML: Ohhh
+7/1/23, 10:49 PM - Nithin AIML: Brain
+7/1/23, 10:50 PM - Varun ISE: Codaine Andre coding addiction anta nanigalla @917019096676 ge
+7/1/23, 10:51 PM - nagaraj_poojari: 😆 good joke
+7/1/23, 10:54 PM - Varun ISE: Modesty
+7/1/23, 11:27 PM - +91 6362 688 458: I am busy in intenship work
+7/1/23, 11:27 PM - +91 6362 688 458: I will talk to you tomorrow
+7/1/23, 11:28 PM - Varun ISE: Thnx for replying
+7/1/23, 11:29 PM - +91 6362 688 458: Loo saku sumne iru
+7/1/23, 11:29 PM - Varun ISE: +ve cmnt ithu nandu
+7/1/23, 11:30 PM - Nithin AIML: Aytappa monday enda crt agi kelsa madu
+7/1/23, 11:30 PM - Nithin AIML: Nine kano leader
+7/1/23, 11:30 PM - +91 6362 688 458: Loo nan helde tane time illa lo
+7/1/23, 11:31 PM - +91 6362 688 458: I intenship ide matte placements prepare agbeku anta
+7/1/23, 11:31 PM - Nithin AIML: Ok ok
+7/1/23, 11:31 PM - Nithin AIML: Just correct madu edre
+7/2/23, 10:34 AM - nagaraj_poojari: send email id
+7/2/23, 10:35 AM - nagaraj_poojari: everyone
+7/2/23, 10:35 AM - Varun ISE: varun.ramesh1018@gmail.com
+7/2/23, 10:37 AM - Nithin AIML: nithinmkannal07@gmail.com
+7/2/23, 10:42 AM - Varun ISE: Innondu kodu
+7/2/23, 10:42 AM - Nithin AIML: Yavdu
+7/2/23, 10:42 AM - Varun ISE: Datvik
+7/2/23, 10:42 AM - Nithin AIML: Wait
+7/2/23, 10:43 AM - Varun ISE: Ninde kodu
+7/2/23, 10:43 AM - Nithin AIML: Keltini
+7/2/23, 10:43 AM - +91 6362 688 458: dhatvikmpd@gmail.com
+7/2/23, 12:52 PM - nagaraj_poojari: <Media omitted>
+7/2/23, 12:52 PM - nagaraj_poojari: <Media omitted>
+7/2/23, 1:37 PM - Nithin AIML: Thanks nagraj!! We actually start from Monday
+7/2/23, 1:38 PM - nagaraj_poojari: 👍
+7/3/23, 6:35 PM - Nithin AIML: I got 92.779% accuracy
+7/3/23, 6:39 PM - Nithin AIML: <Media omitted>
+7/3/23, 6:39 PM - Nithin AIML: <Media omitted>
+7/3/23, 6:39 PM - nagaraj_poojari: what about macro f1
+7/3/23, 6:40 PM - Nithin AIML: Idk wait
+7/3/23, 6:42 PM - Nithin AIML: Its 26.74
+7/3/23, 7:00 PM - Nithin AIML: So should we have try new
+7/4/23, 6:42 PM - nagaraj_poojari: Intel, India, in association with C-DAC, is conducting an online ‘oneAPI AI Hackathon’ for undergrad and graduate students from top higher Institutions in India. 
+Learn about the new OneAPI technology.
+Develop  ideas and showcase AI projects in the Hackathon format
+stand a chance to win some exciting prizes if their ideas are well crafted and developed (to be judged by a panel)
+
+More details are in the registration site: https://oneapi-nsm-ai-hackathon.com/
+7/5/23, 5:08 PM - Nithin AIML: God!!! We talked like 40 mins
+7/5/23, 5:08 PM - Nithin AIML: He actually gave some valuable points to implement
+7/5/23, 5:09 PM - Nithin AIML: Lemme tell wt we spoke n i asked to create a group with him if in case of any issues
+7/5/23, 5:10 PM - Nithin AIML: Points we discussed
+1.cleaning plays a crucial role model doesn't have much to do with accuracy there were we all go wrong
+7/5/23, 5:11 PM - Nithin AIML: Soooo "our motive is not to build a new model its to clean a data very properly "
+7/5/23, 5:12 PM - Nithin AIML: Like doesn't should be does not but our nltk takes that as does n gives positive
+7/5/23, 5:13 PM - Nithin AIML: 2.Soo nltk is outdated he suggested to use spaCy which is recent n most used
+7/5/23, 5:14 PM - Nithin AIML: In nltk u have to remove like "not" etc in stopwords
+7/5/23, 5:14 PM - Nithin AIML: N like u as you r as are n so on
+7/5/23, 5:16 PM - Nithin AIML: 3. Try TFIDF than countervectorization as it gives weight n know how to remove a make a optimized vector
+7/5/23, 5:17 PM - Nithin AIML: LDA is linear dicrinent analysis use that
+7/5/23, 5:18 PM - Nithin AIML: Finally.... These 3 are for cleaning data n further will be discussed later as cleaning itself is 90%of job in data science
+7/5/23, 5:18 PM - Nithin AIML: Hope my points are clear feel free to ask anything if u didn't get
+7/5/23, 5:19 PM - Nithin AIML: Guys pls work n be interactive
+7/5/23, 5:39 PM - nagaraj_poojari: 👍
+7/5/23, 7:13 PM - nagaraj_poojari: i think we are calculating macro F1 wrong way
+7/5/23, 7:13 PM - nagaraj_poojari: it is giving diff ans with diff library functions
+7/5/23, 7:17 PM - Nithin AIML: What lib u have gone through
+7/5/23, 7:17 PM - nagaraj_poojari: tensorflow , sklearn
+7/5/23, 7:18 PM - Nithin AIML: Check how they both calculate
+7/5/23, 7:20 PM - nagaraj_poojari: k
+7/6/23, 3:18 PM - nagaraj_poojari: basically idea is to get relationship between a text with its labels
+7/6/23, 3:18 PM - nagaraj_poojari: we are not passing one hot encoding of the label ,but a short text explaining that label
+7/6/23, 3:18 PM - nagaraj_poojari: <Media omitted>
+7/6/23, 3:18 PM - nagaraj_poojari: <Media omitted>
+7/6/23, 3:18 PM - nagaraj_poojari: rather than attention model , we can try a Siamese network
+7/6/23, 8:24 PM - nagaraj_poojari: training f1 macro - 0.97
+validation f1 macro ~ 0.65
+7/6/23, 8:26 PM - Nithin AIML: How
+7/6/23, 8:26 PM - Nithin AIML: Which model
+7/6/23, 8:30 PM - nagaraj_poojari: just fine tuning Bert
+7/6/23, 8:33 PM - Nithin AIML: What tuning u did
+7/6/23, 8:34 PM - nagaraj_poojari: nothing special, just used Huggingface to import Bert ,then run few epochs on our dataset
+7/6/23, 8:35 PM - Nithin AIML: Any extra in cleaning other than mine
+7/6/23, 8:57 PM - nagaraj_poojari: nothing
+7/7/23, 1:05 PM - Nithin AIML: Lets meet after AEC
+7/7/23, 1:05 PM - Nithin AIML: At 2:45
+7/7/23, 1:22 PM - nagaraj_poojari: 👍
+7/9/23, 10:22 PM - Nithin AIML: fast
+7/9/23, 10:22 PM - Nithin AIML: in that group
+7/9/23, 11:12 PM - Nithin AIML: list of the imp discussed points
+7/9/23, 11:12 PM - Nithin AIML: briefly nagu
+7/9/23, 11:12 PM - Varun ISE: Hey baro meet
+7/9/23, 11:12 PM - nagaraj_poojari: baro
+7/10/23, 9:56 AM - Varun ISE: ✨🔥 *Provothon is live now* 🔥✨
+A hackathon by provokedev.tech for everyone from art to code, finance to video, creativity to real-world!! 😎
+Prize pool of 3,00,000 Indian Rupees... 11 problem statements to solve from each domain 😲
+Your chance to be the one you want to... participate now
+
+Registration Link:-
+https://unstop.com/p/provothon-provoke-developers-698461
+7/14/23, 1:36 PM - Varun ISE: <Media omitted>
+7/18/23, 4:53 PM - Nithin AIML: <Media omitted>
+7/18/23, 4:55 PM - Nithin AIML: grouped less than 0.2% as generic
+7/18/23, 4:56 PM - Nithin AIML: which is in 3rd position of top most per
+7/18/23, 6:15 PM - Nithin AIML: <Media omitted>
+7/18/23, 11:19 PM - Nithin AIML: <Media omitted>
+7/18/23, 11:19 PM - Nithin AIML: <Media omitted>
+7/20/23, 4:58 PM - nagaraj_poojari: <Media omitted>
+7/20/23, 5:08 PM - Nithin AIML: Woww
+7/20/23, 5:08 PM - Nithin AIML: Good news
+8/1/23, 11:30 AM - Nithin AIML: Test data released
+8/1/23, 11:31 AM - nagaraj_poojari: <Media omitted>
+8/1/23, 10:53 PM - Nithin AIML: sooo wts the update
+8/1/23, 10:53 PM - Nithin AIML: wt I am supposed to do
+8/1/23, 10:54 PM - Nithin AIML: should I ask sir again
+8/1/23, 10:54 PM - Nithin AIML: its been a long I didn't contact him
+8/3/23, 3:07 PM - Nithin AIML: <Media omitted>
+8/3/23, 4:59 PM - Nithin AIML: # Load the dataset
+dataset = pd.read_csv('/kaggle/input/train-valcsv/train_val.csv', encoding='latin-1')
+dataset = dataset.drop(columns=["ID"])
+
+# Define a custom function to perform text preprocessing
+def preprocess_text(text):
+    text = contractions.fix(text)
+    # Remove mentions after link or name detection
+    text = re.sub(r'((http|https)\S+)|(www.\S+)|(@\S+)', '', text)
+    
+    # Remove non-alphabetic characters using regular expressions
+    text = re.sub(r'[^a-zA-Z\']', ' ', text)
+
+    # Convert the text to lowercase
+    text = text.lower()
+    text = re.sub(r'\b(i|today|girl|vaccine|covid|astrazeneca|pfizer|covidvaccine|russian|pharmaceutical|think|us|s)\b', '', text)
+    
+    # Tokenize the text using spaCy
+    doc = nlp(text)
+
+    # Apply stemming and remove stopwords
+    processed_tokens = [token.lemma_ for token in doc if token.lemma_ not in STOP_WORDS]
+
+    # Join the processed tokens back into a single string
+    processed_text = ' '.join(processed_tokens)
+
+    return processed_text
+8/3/23, 4:59 PM - Nithin AIML: !pip install contractions
+8/3/23, 5:00 PM - Nithin AIML: !pip install spacy
+!python -m spacy download en_core_web_sm
+8/3/23, 5:00 PM - Nithin AIML: import pandas as pd
+import numpy as np
+import re
+import contractions
+import spacy
+from spacy.lang.en.stop_words import STOP_WORDS
+from sklearn.pipeline import Pipeline
+from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import OneHotEncoder
+from sklearn.compose import ColumnTransformer
+8/3/23, 5:01 PM - Nithin AIML: # Apply text preprocessing to the tweet column
+nlp = spacy.load("en_core_web_sm")
+dataset['tweet'] = dataset['tweet'].apply(preprocess_text)
+
+# Define the target variable
+y = dataset['labels']
+8/3/23, 5:56 PM - nagaraj_poojari: <Media omitted>

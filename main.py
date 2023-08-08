@@ -1,64 +1,52 @@
-from textSummarizer.pipeline.stage_01_data_ingestion import DataIngestionTrainingPipeline
-from textSummarizer.pipeline.stage_02_data_validation import DataValidationTrainingPipeline
-from textSummarizer.pipeline.stage_03_data_transformation import DataTransformationTrainingPipeline
-from textSummarizer.pipeline.stage_04_model_train import ModelTrainerPipeline
-from textSummarizer.pipeline.stage_05_model_evaluation import ModelEvaluationPipeline
-from textSummarizer.logging import logger
-STAGE='stage_01 Data ingestion'
+from fastapi import FastAPI, Request
+from fastapi.templating import Jinja2Templates
+from fastapi.responses import JSONResponse
 
-try:
-    print(f'---------  {STAGE}  started ---------')
-    data_ingestion_pipeline = DataIngestionTrainingPipeline()
-    data_ingestion_pipeline.main()
-    print(f'---------  {STAGE} completed  ---------')
-except Exception as e:
-    print(f'---------  {STAGE} failed  ---------')
-    logger.exception(e)
-    
-STAGE='stage_01 Data validation'
-    
-    
-try:
-    print(f'---------  {STAGE}  started ---------')
-    data_validation_pipeline = DataValidationTrainingPipeline()
-    data_validation_pipeline.main()
-    print(f'---------  {STAGE} completed  ---------')
-except Exception as e:
-    print(f'---------  {STAGE} failed  ---------')
-    logger.exception(e)
-    
-    
-    
-STAGE='stage_01 Data transformation'
+from textSummarizer.pipeline.prediction import PredictionPipeline
 
-try:
-    print(f'---------  {STAGE}  started ---------')
-    data_transformation_pipeline = DataTransformationTrainingPipeline()
-    data_transformation_pipeline.main()
-    print(f'---------  {STAGE} completed  ---------')
-except Exception as e:
-    print(f'---------  {STAGE} failed  ---------')
-    logger.exception(e)
-    
-    
-STAGE='stage_04 Model training'
+app = FastAPI()
+predictor = PredictionPipeline()
 
-try:
-    print(f'---------  {STAGE}  started ---------')
-    model_trainer_pipeline = ModelTrainerPipeline()
-    ##model_trainer_pipeline.main()
-    print(f'---------  {STAGE} completed  ---------')
-except Exception as e:
-    print(f'---------  {STAGE} failed  ---------')
-    logger.exception(e)
-    
-STAGE='stage_05 Model evaluation'
+# Set up Jinja2 templates
+templates = Jinja2Templates(directory="templates")
 
-try:
-    print(f'---------  {STAGE}  started ---------')
-    model_evaluation_pipeline = ModelEvaluationPipeline()
-    model_evaluation_pipeline.main()
-    print(f'---------  {STAGE} completed  ---------')
-except Exception as e:
-    print(f'---------  {STAGE} failed  ---------')
-    logger.exception(e)
+
+@app.get("/")
+async def read_root(request: Request):
+    return templates.TemplateResponse("index.html", {"request": request})
+
+
+@app.post("/upload/")
+async def upload_text(data: dict):
+    try:
+        
+        pdf_text = data.get("text", "")
+        print(pdf_text)
+        summary = predictor.predict(pdf_text)
+        print(summary)
+        
+        # Process the extracted text as needed
+        
+        return  JSONResponse(content={"message": summary})
+    except Exception as e:
+        return JSONResponse(content={"message": "An error occurred"}, status_code=500)
+
+
+
+
+
+
+@app.post("/")
+async def process_chat(request: Request, data: dict):
+    name = data.get("name")
+    if name is not None:
+        # Perform any processing or summarization on the name
+        summary = predictor.predict(name)
+        return JSONResponse(content={"chat_summary": summary})
+    else:
+        return JSONResponse(content={"chat_summary": "Invalid data"}, status_code=400)
+
+if __name__ == "__main__":
+    import uvicorn
+
+    uvicorn.run(app, host="localhost", port=8000)

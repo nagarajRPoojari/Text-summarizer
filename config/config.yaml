@@ -24,6 +24,6 @@ model_trainer:
 model_evaluation:
   root_dir: artifacts/model_evaluation
   data_path: artifacts/data_transformation/samsum_dataset/test
-  model_path: artifacts/model_trainer/pegasus-samsum-model
-  tokenizer_path: artifacts/model_trainer/tokenizer
-  tokenizer_path: artifacts/model_evaluation/metric.csv
+  model_path: knkarthick/MEETING_SUMMARY
+  tokenizer_path: knkarthick/MEETING_SUMMARY
+  evaluation_path: artifacts/model_evaluation/metric.csv
